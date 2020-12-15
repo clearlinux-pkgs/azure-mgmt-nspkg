@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-nspkg
 Version  : 3.0.2
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/c4/d4/a9a140ee15abd8b0a542c0d31b7212acf173582c10323b09380c79a1178b/azure-mgmt-nspkg-3.0.2.zip
 Source0  : https://files.pythonhosted.org/packages/c4/d4/a9a140ee15abd8b0a542c0d31b7212acf173582c10323b09380c79a1178b/azure-mgmt-nspkg-3.0.2.zip
 Summary  : Microsoft Azure Resource Management Namespace Package [Internal]
